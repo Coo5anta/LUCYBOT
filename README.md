@@ -1,0 +1,2 @@
+# LUCYBOT
+a discord bot
